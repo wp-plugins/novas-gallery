@@ -7,28 +7,43 @@ Stable tag: 1.3.8
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Nova's Gallery places your photos from scocial networks & media library into your websites 
+Nova's Gallery places your photos from social networks & media library into your websites 
 
 == Description ==
 
-Nova's Gallery places your photos from scocial networks into your website. This saves hosting space and bandwith. You can also use the media library built into Wordpress. With its simple interface and minimalism it is one of the most easy photo gallery to setup.
+Nova's Gallery places your photos from social networks into your website. This saves hosting space and bandwidth. You can also use the media library built into WordPress. With its simple interface and minimalism it is one of the most easy photo gallery to setup.
 
 == Installation ==
 
 1. Place in wp-content/plugin
-2. Add photos to local gallery or create scocial media feed
+2. Add photos to local gallery or create social media feed
 3. Add shortcode to a blank page or post.
 
+== Frequently Asked Questions ==
+
+Q. Which social networks can I use?
+A. For right now Facebook
+
+Q. Can I use my Facebook profile pictures?
+A. No, you can only use photos from your page
+
+Q. Can I add more than one gallery to a page
+A. No, if you add more than one then the back button won’t display properly
+
 == Screenshots ==
-1. Scocial network feeds load all phtos by albums and displays the photos as thumbnails
+1. Social network feeds load all photos by albums and displays the photos as thumbnails
 2. View of opened album
 3. Larger images
 4. The admin page is simple and easy to use
 
+== Demo ==
+
+You can view a demo of the plugin on my [Portfolio Site](http://jacobsommerfeld.net/index.php/pages/view/novas-gallery) 
+
 == Changelog ==
 
 = 1.0.0 =
-* Inital release
+* Initial release
 * Ability to use Facebook feeds
 
 = 1.3.0 =
@@ -41,8 +56,8 @@ Nova's Gallery places your photos from scocial networks into your website. This 
 * Patched to work with Facebook Graph API 2.0
 
 = 1.3.7 =
-* Changed admin pannel to use ajax to send chnages to server
+* Changed admin panel to use AJAX to send changes to server
 
 = 1.3.8 =
-* Cahnge admin pannel to allow selecting multiple media library images
+* Changed admin panel to allow selecting multiple media library images
 
