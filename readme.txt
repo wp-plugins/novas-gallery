@@ -11,7 +11,8 @@ Nova's Gallery places your photos from social networks & media library into your
 
 == Description ==
 
-Nova's Gallery places your photos from social networks into your website. This saves hosting space and bandwidth. You can also use the media library built into WordPress. With its simple interface and minimalism it is one of the most easy photo gallery to setup. You can view a demo of the plugin on my [Portfolio Site](http://jacobsommerfeld.net/index.php/pages/view/gallery) 
+Nova's Gallery places your photos from social networks into your website. This saves hosting space and bandwidth. You can also use the media library built into WordPress. With its simple interface and minimalism it is one of the most easy photo gallery to setup. You can view a demo of the plugin on my [Portfolio Site](http://jacobsommerfeld.net/index.php/pages/view/gallery)
+
 
 == Installation ==
 
@@ -22,12 +23,16 @@ Nova's Gallery places your photos from social networks into your website. This s
 == Frequently Asked Questions ==
 
 Q. Which social networks can I use?
+
 A. For right now Facebook
 
 Q. Can I use my Facebook profile pictures?
+
 A. No, you can only use photos from your page
 
+
 Q. Can I add more than one gallery to a page
+
 A. No, if you add more than one then the back button won’t display properly
 
 == Screenshots ==
