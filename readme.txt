@@ -65,3 +65,7 @@ A. No, if you add more than one then the back button won’t display properly
 = 1.3.9 =
 * Added the correct admin.js which included multiple file insert functionality
 
+== Upgrade Notice ==
+
+Provides you with the corrected admin.js which enables the ability to attach multiple media library files.
+
