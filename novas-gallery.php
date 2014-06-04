@@ -3,7 +3,7 @@
  * Plugin Name: Nova's Gallery
  * Plugin URI: http://wordpress.org/plugins/novas-gallery/
  * Description: Nova's Gallery places your photos from scocial networks into your website. This saves hosting space and bandwith. You can also use the media library built into Wordpress.
- * Version: 4.0.0
+ * Version: 1.4.0
  * Author: elrond1369
  * Author URI: http://profiles.wordpress.org/elrond1369/
  * License: GPL2

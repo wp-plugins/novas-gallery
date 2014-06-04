@@ -3,7 +3,7 @@ Contributors: (elrond1369)
 Tags: photo gallery, media library, social networking, feed
 Requires at least: 3.9
 Tested up to: 3.9
-Stable tag: 1.3.9
+Stable tag: 1.4.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
