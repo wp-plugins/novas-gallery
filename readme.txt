@@ -65,8 +65,14 @@ A. No, if you add more than one then the back button won’t display properly
 = 1.3.9 =
 * Added the correct admin.js which included multiple file insert functionality
 
-== Upgrade Notice ==
-= 1.1.9 =
+= 1.4.0 =
+* Improved server response time in admin page
+* Added confirm to delete feeds
+* Fixed a bug that was preventing new local photos from disapearing after being removed from database from database
 
-Provides you with the corrected admin.js which enables the ability to attach multiple media library files.
+== Upgrade Notice ==
+= 1.4.0 =
+* Improved server response time in admin page
+* Added confirm to delete feeds
+* Fixed a bug that was preventing new local photos from disapearing after being removed
 
