@@ -3,7 +3,7 @@ Contributors: (elrond1369)
 Tags: photo gallery, media library, social networking, feed
 Requires at least: 3.9
 Tested up to: 3.9
-Stable tag: 1.4.0
+Stable tag: 1.4.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -70,9 +70,10 @@ A. No, if you add more than one then the back button won’t display properly
 * Added confirm to delete feeds
 * Fixed a bug that was preventing new local photos from disapearing after being removed from database from database
 
+= 1.4.1 =
+* Improved CSS: Stops full size images from getting too tall
+
 == Upgrade Notice ==
-= 1.4.0 =
-* Improved server response time in admin page
-* Added confirm to delete feeds
-* Fixed a bug that was preventing new local photos from disapearing after being removed
+= 1.4.1 =
+* Improved CSS: Stops full size images from getting too tall
 
