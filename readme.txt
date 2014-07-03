@@ -68,7 +68,7 @@ A. No, if you add more than one then the back button won’t display properly
 = 1.4.0 =
 * Improved server response time in admin page
 * Added confirm to delete feeds
-* Fixed a bug that was preventing new local photos from disapearing after being removed from database from database
+* Fixed a bug that was preventing new local photos from disapearing after being removed from.
 
 = 1.4.1 =
 * Improved CSS: Stops full size images from getting too tall
