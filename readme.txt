@@ -2,8 +2,8 @@
 Contributors: (elrond1369)
 Tags: photo gallery, media library, social networking, feed
 Requires at least: 3.9
-Tested up to: 3.9
-Stable tag: 1.4.1
+Tested up to: 4.0
+Stable tag: 1.4.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -19,6 +19,19 @@ Nova's Gallery places your photos from social networks into your website. This s
 1. Place in wp-content/plugin
 2. Add photos to local gallery or create social media feed
 3. Add shortcode to a blank page or post.
+
+= Facebook =
+1. Enter the unique url for your page.
+2. Select Facebook from the list of source types.
+3. Type in the position of the albums you don't want to show. The last album on the Facebook page is album #1. Separate all albums with a comma and put a comma after the album.
+4. Copy the shortcode into a page.
+
+= Media Library =
+1. Click add images.
+2. Select the image from the media library. Ctrl+click to select multiple images.
+3. Click chose images. Wait on page for all images to show up on the page.
+4. Add the shortcode to a page.
+5. To remove a photo click remove at the top of the photo. This does not delete it from the media library.
 
 == Frequently Asked Questions ==
 
@@ -73,7 +86,12 @@ A. No, if you add more than one then the back button won’t display properly
 = 1.4.1 =
 * Improved CSS: Stops full size images from getting too tall
 
+= 1.4.2 =
+* Changed Facebook feed album exclusion to use album position number instead of album name.
+* Added links to Faq's and Installation pages.
+
 == Upgrade Notice ==
-= 1.4.1 =
-* Improved CSS: Stops full size images from getting too tall
+= 1.4.2 =
+* Changed Facebook feed album exclusion to use album position number instead of album name.
+* Added links to Faq's and Installation pages.
 
