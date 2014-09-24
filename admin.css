@@ -1,0 +1,148 @@
+@charset "UTF-8";
+/* CSS Document */
+#donate {
+	position:absolute;
+	right:10px;
+	top:10px
+}
+.feed {
+	background-color:#DDD;
+	width:1040px;
+}
+img[alt="thumbnail"] {
+	width:200px;
+}
+.local tr {
+	/*height:200px;*/
+}
+tr.localhead {
+	/*height:25px;*/
+}
+th {
+	font-size:13pt;
+	margin-left:20px;
+	margin-right:120px;
+	display:inline-block;
+}
+td {
+	/*display:inline-block;
+	margin-left:15px;
+	margin-right:40px;*/
+	font-size:12pt;
+	overflow:hidden;
+	display:inline-block;
+	margin-right:60px;
+	width:137px;
+}
+tr {
+	border-bottom:1px solid black;
+	margin-bottom:30px;
+	display:inline-block;
+	height:50px;
+}
+input[value="Save"], input[value="New Feed"], input[value="Add Images"] {
+	background-color:#09F;
+	color:white;
+	font-size:13pt;
+	border-radius:20px;
+	border-color:#09F;
+	margin-bottom:20px;
+	display:inline-block;
+}
+input[type="button"] {
+	float:none;
+}
+input[type="text"], select {
+	width:125px;
+}
+input[type="submit"] {
+	
+}
+.delete {
+	background-color:#871E20;
+	color:white;
+	border-color:#871E20;
+	border-radius:20px;
+	margin-left:25px;
+}
+input.local-delete {
+	position:absolute;
+}
+div.album-photo {
+	width:180px; 
+	height:180px; 
+	border:3px solid black;
+	margin:10px;
+	display:inline-block;
+	overflow:hidden;
+	background-color:#000000;
+	margin-bottom:35px;
+	background-position:50%;
+	z-index:1;
+	cursor:pointer;
+	margin-left:20px;
+	position:relative;
+}
+div.gallery-photo {
+	width:100%; 
+	height:100%;
+	margin:auto;
+	top:150px;
+	right:50px;
+	overflow:auto;
+	overflow-y:hidden;
+	background-position:50% !important;
+	background-size:auto 100% !important;
+}
+.local-delete {
+	background-color:rgba(0,0,0,.5);
+	width:180px;
+	height:25px;
+	text-align:center;
+	position:absolute;
+	top:0px;
+	color:white;
+	text-decoration:none;
+}
+.local-delete:hover {
+	background-color:rgba(166,39,41,.5)
+}
+.reload-msg {
+	width:100%;
+	text-align:center;
+	margin-top:25%;
+}
+.local {
+	border:1px solid black;
+	background-color:rgba(155,155,155,1.00);
+	min-height:180px;
+	width:80%;
+	display:block;
+}
+.local:after { 
+   content: " ";
+   display: block; 
+   height: 0; 
+   clear: both;
+}
+#local-section {
+	margin-top:50px;
+}
+.NGstatus {
+	position:fixed;
+	top:50%;
+	left:50%;
+	background-color:rgba(134,204,199,1.00);
+	font-size:18pt;
+	padding:20px;
+	z-index:1000;
+}
+#overlay {
+	position:fixed;
+	top:0px;
+	left:0px;
+	background-color:rgba(0,0,0,0.50);
+	width:100%;
+	height:100%;
+	z-index:1000;
+}
